@@ -33,24 +33,39 @@ tinderUser.isLoggedIn = false;
 
 // array objects 
 
-const users = [
-    {
+// const users = [
+//     {
 
-    },
-    {
+//     },
+//     {
 
-    },
-    {
+//     },
+//     {
 
-    },
+//     },
 
 
-]
+// ]
 
-users[1].email 
-console.log(tinderUser);
-console.log(Object.keys(tinderUser));
-console.log(Object.values(tinderUser));
-console.log(Object.entries(tinderUser));
+// users[1].email 
+// console.log(tinderUser);
+// console.log(Object.keys(tinderUser));
+// console.log(Object.values(tinderUser));
+// console.log(Object.entries(tinderUser));
 
-console.log(Object.hasOwnProperty('isLoggedIn'));
+// console.log(Object.hasOwnProperty('isLoggedIn'));
+
+//................ objects ...............
+
+// const course = {
+//     coursename: "js in hindi ",
+//     price: "999",
+//     courseInstructor: "keshav"  
+
+
+// }
+
+// const {courseInstructor} = course; 
+
+// console.log(courseInstructor);
+
